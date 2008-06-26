@@ -1,6 +1,6 @@
 %define name	nagios-check_logfiles
 %define version	2.4.1.3
-%define release	%mkrel 1
+%define release	%mkrel 2
 
 Name:		%{name}
 Version:	%{version}
@@ -10,7 +10,6 @@ Group:		Networking/Other
 License:	BSD
 URL:		http://www.consol.com/opensource/nagios/check-logfiles
 Source:     http://www.consol.com/fileadmin/opensource/Nagios/check_logfiles-%{version}.tar.gz
-BuildArch:  noarch
 BuildRoot:  %{_tmppath}/%{name}-%{version}
 
 %description
