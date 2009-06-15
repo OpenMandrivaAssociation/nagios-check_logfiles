@@ -1,5 +1,5 @@
 %define name	nagios-check_logfiles
-%define version	2.5.5.1
+%define version	2.5.6.1
 %define release	%mkrel 1
 
 Name:		%{name}
