@@ -3,7 +3,7 @@
 
 Name:		nagios-check_logfiles
 Version:	2.5.6.1
-Release:	3
+Release:	4
 Summary:	Check log files for specific patterns
 Group:		Networking/Other
 License:	BSD
