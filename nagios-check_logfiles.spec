@@ -7,7 +7,7 @@ Release:	4
 Summary:	Check log files for specific patterns
 Group:		Networking/Other
 License:	BSD
-URL:		http://www.consol.com/opensource/nagios/check-logfiles
+URL:		https://www.consol.com/opensource/nagios/check-logfiles
 Source:     http://www.consol.com/fileadmin/opensource/Nagios/check_logfiles-%{version}.tar.gz
 
 %description
